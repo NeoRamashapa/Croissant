@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: bisque;
+  color: brown;
+}
+a {
+  justify-content: space-evenly;
+  text-align: center;
+}
+img {
+  align-items: center;
+}
